@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Delson Filho</h1>
-<h3 align="center">Estudante de Engenharia de Software</h3>
+<h3 align="center">Software Engineer student</h3>
 
 - 🔭 I’m currently working on [Meu Portifolio](https://github.com/delsinx/My_Portifolio-main)
 
