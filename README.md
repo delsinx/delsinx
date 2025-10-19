@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java, Spring, Spring Security and postgreSQL**
 
-- 💬 Ask me about **Software Engineering student focused on backend development using Java and Spring Boot technologies.**
+- 💬 **Software Engineering student focused on backend development using Java and Spring Boot technologies.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
