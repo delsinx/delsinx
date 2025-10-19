@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Delson Antônio Andrade Filho, tenho 28 anos e sou natural do Belo Horizonte, focado na area de backend utilizando java, spring, postgreSQL ".
+Me chamo Delson Filho, tenho 28 anos e sou natural do Belo Horizonte, focado na area de backend utilizando java, spring, postgreSQL ".
 
 ---
 
