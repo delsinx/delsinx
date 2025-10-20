@@ -60,7 +60,7 @@ Me chamo Delson Filho, tenho 28 anos e sou natural do Belo Horizonte, focado na 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="src="https://github-readme-stats.vercel.app/api/top-langs/?username=delsinx&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" " 
+      src="src="https://github-readme-stats.vercel.app/api/top-langs/?username=delsinx&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
       
   />
 </p>
