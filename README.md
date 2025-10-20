@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f4cd7c&width=900&size=22&center=true&lines=I'm+from+Brazil;I'm+a+student+of+Software+engineering;I'm+also+a+Backend+Developer;Be+welcome!" alt="Typing SVG"/>
 </div>
 <div align="center" style="display: inline_block"><br>
-  <a href=""><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /></a>
+  <a href="https://docs.oracle.com/en/java/"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /></a>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
