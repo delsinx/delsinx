@@ -17,8 +17,8 @@
       
 <div align="center">
  
-  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delsinx&layout=compact&font=Iosevka&langs_count=16&theme=ayu-mirage"/>
+  <img height=180 align="leftr" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delsinx&layout=compact&font=Iosevka&langs_count=16&theme=ayu-mirage"/>
   <br>
   <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=delsinx&theme=ayu_mirage"/>
+  <img align="center" alt="right Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=delsinx&theme=ayu_mirage"/>
 </div>
